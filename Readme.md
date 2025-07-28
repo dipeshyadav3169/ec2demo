@@ -61,6 +61,7 @@ This is a simple web-based **Temperature Converter** that allows users to conver
 ## 🧑‍💻 Author
 
 Made with ❤️ by [DIPESH YADAV]
+Made with ❤️ by [DIPESH YADAV-DIPESH YADAV]
 
 ---
 
